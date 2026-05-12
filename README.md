@@ -1,6 +1,6 @@
 hi, i'm caleb!
 
-I'm a cos student at [princeton university](https://www.princeton.edu/),
+I'm a cos student at [princeton university](https://www.princeton.edu/)
 
 Previously, I've done:
 
