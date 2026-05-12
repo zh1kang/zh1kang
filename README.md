@@ -1,4 +1,4 @@
-## hi, i'm caleb 👋
+hi, i'm caleb!
 
 I'm a cos student at [princeton university](https://www.princeton.edu/),
 
